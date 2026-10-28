@@ -1,0 +1,6 @@
+{
+  "name": "Robo Lab Hub",
+  "description": "Centralized Robotics Laboratory Management System for universities and research institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
